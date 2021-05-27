@@ -41,13 +41,12 @@ git clone https://github.com/ethersphere/bee-clef.git
 git clone https://github.com/ethersphere/bee-clef.git
 ```
 
-## faucet
-
-```
-https://faucet.goerli.mudit.blog/
-https://chainlist.org/
-```
 
 
+
+
+## reference
 
 [bee docker](https://docs.ethswarm.org/docs/installation/docker/)
+[](https://faucet.goerli.mudit.blog/)
+[](https://chainlist.org/)
